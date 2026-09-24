@@ -1,0 +1,5 @@
+groq>=1.7.0
+pydantic>=2.13.5
+pypdf>=6.19.0
+python-docx>=1.2.0
+python-dotenv>=1.2.3
